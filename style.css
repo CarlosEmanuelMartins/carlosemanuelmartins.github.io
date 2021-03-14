@@ -3,5 +3,5 @@ color: blue;
 }
 body { 
 background: rgb(64,53,126);
-background: linear-gradient(90deg, rgba(64,53,126,1) 0%, rgba(39,95,161,1) 32%, rgba(28,143,187,1) 65%, rgba(0,212,255,1) 100%);
+background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
 }
